@@ -60,7 +60,7 @@ Add Your API ID AND API HASH in the links.py
 
 `python links.py`
 
-When you run first time it can asked your phone number
+When you run it for the first time, it could ask for your phone number.
 
 ### Sample Output Screen-shot
 
