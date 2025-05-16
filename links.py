@@ -7,9 +7,10 @@ from telethon.errors import FloodWaitError
 from telethon.tl.functions.messages import GetHistoryRequest
 
 # === Configuration ===
-API_ID = '21953230'
-API_HASH = '71de11b5298ee2f043d28a74ab70d8b1'
-CHANNEL_USERNAME = 'toronionlinks'  # or any other public channel
+API_ID = 'Your_API_ID'
+API_HASH = 'Your_API_HASH'
+
+CHANNEL_USERNAME = 'toronionlinks'  # or any other public channel which contains onion links
 OUTPUT_FILE = 'onion_links.json'
 LAST_ID_FILE = 'last_message_id.txt'
 SESSION_NAME = 'anon_session'
