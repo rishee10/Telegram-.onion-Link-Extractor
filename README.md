@@ -1,4 +1,4 @@
-# 🧅 Telegram .onion Link Extractor
+#  Telegram .onion Link Extractor
 
 A Python script that connects to a public Telegram channel using the Telegram API (via Telethon) and extracts any `.onion` links from recent messages.
 
